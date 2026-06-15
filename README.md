@@ -1,2 +1,2 @@
-Hello I am Eaint Myint Mo 
+Hello ,
 Thanks a lot  for your git lecture 
